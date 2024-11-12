@@ -1,2 +1,3 @@
-# 65114500000
-Lab repos for 2-67 DS toolbox
+65114500000
+Wichit Sombat
+email@ubu.ac.th
